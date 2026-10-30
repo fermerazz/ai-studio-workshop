@@ -1,0 +1,7 @@
+{
+  "name": "Classic Chess Live",
+  "description": "Real-time multiplayer classic chess with custom room codes, shareable invites, live in-game chat, chess clocks, move history, and spectator mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
